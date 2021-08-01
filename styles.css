@@ -1,0 +1,42 @@
+.heading {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #0F044C;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Bebas Neue', cursive;
+  text-shadow: 5px 0 #CF0000;
+  font-size: 8rem;
+  color: #EEEEEE;
+}
+
+p {
+  font-size: 2rem;
+  color: #EEEEEE;
+  font-family: 'Bebas Neue', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #CF0000;
+  font-size: 1rem;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+
+}
